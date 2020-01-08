@@ -1,0 +1,7 @@
+{
+  "name": "vant-form",
+  "version": "1.0.0",
+  "main": "package/index.js",
+  "repository": "git@github.com:excitedjs/vant-form.git",
+  "license": "MIT"
+}
